@@ -1,0 +1,8 @@
+Variables
+month - month
+deposit - volume of deposit in bank
+aver_inc - Average income in a region, a month
+population - Total population in a region, a month
+manprop - Proportion of man
+billboard - Whether billboards are implemented in a region
+numofbank - Number of bank office in a region, a month
